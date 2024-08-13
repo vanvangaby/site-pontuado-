@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Red Deg Hitmo 2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ff4500, #ff6347);
+            color: white;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        .imagens {
+            display: flex;
+            justify-content: space-around;
+            margin: 20px 0;
+        }
+        .imagens img {
+            width: 45%;
+            border-radius: 10px;
+        }
+        .video {
+            margin: 20px 0;
+        }
+        .video iframe {
+            width: 100%;
+            height: 400px;
+            border: none;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Red Dead Redemption 2<!DOCTYPE html>
+            <html lang="pt-br">
+            <head>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Red Dead Redemption 2</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 0;
+                        background: linear-gradient(to right, #ff4500, #ff6347);
+                        color: white;
+                        text-align: center;
+                    }
+                    .container {
+                        max-width: 800px;
+                        margin: auto;
+                        padding: 20px;
+                    }
+                    h1 {
+                        font-size: 3em;
+                        margin-bottom: 20px;
+                    }
+                    p {
+                        font-size: 1.2em;
+                        margin-bottom: 15px;
+                        line-height: 1.5;
+                    }
+                    .imagens {
+                        display: flex;
+                        justify-content: space-around;
+                        margin: 20px 0;
+                    }
+                    .imagens img {
+                        width: 45%;
+                        border-radius: 10px;
+                    }
+                    .video {
+                        margin: 20px 0;
+                    }
+                    .video iframe {
+                        width: 100%;
+                        height: 400px;
+                        border: none;
+                        border-radius: 10px;
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="container">
+                    <h1>Red Dead Redemption 2</h1>
+                    <p>Red Dead Redemption 2 é um tema dinâmico e cativante que mistura cores intensas com visuais poderosos. Este conceito se destaca por sua energia vibrante e experiência imersiva.</p>
+                    <p>Explore Red Dead Redemption 2 através de imagens deslumbrantes e conteúdo envolvente que o manterá na ponta da cadeira.</p>
+                    
+                    <div class="imagens">
+                        <img src="c:\Users\USER\Downloads\png.4.jpeg "alt="Imagem 1">
+                        <img src="c:\Users\USER\Downloads\png.7.jpeg" alt="Imagem 2">
+                    </div>
+            
+                    <div class="video">
+                        <iframe src="https://www.youtube.com/embed/videodeexemplo" title="Vídeo Red Deg Hitmo 2"></iframe>
+                    </div>
+                </div>
+            </body>
+            </html>
+            </h1>
+        <p>Red Deg Hitmo 2 é um tema dinâmico e cativante que mistura cores intensas com visuais poderosos. Este conceito se destaca por sua energia vibrante e experiência imersiva.</p>
+        <p>Explore o mundo de Red Deg Hitmo 2 através de imagens deslumbrantes e conteúdo envolvente que o manterá na ponta da cadeira.</p>
+        
+        <div class="imagens">
+            <img src="imagem1.jpg" alt="Imagem 1">
+            <img src="imagem2.jpg" alt="Imagem 2">
+        </div>
+
+        <div class="video">
+            <iframe src="https://www.youtube.com/embed/videodeexemplo" title="Vídeo Red Deg Hitmo 2"></iframe>
+        </div>
+    </div>
+</body>
+</html>
